@@ -1,0 +1,175 @@
+@font-face {
+	font-family: "San Francisco";
+	src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  }
+
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'San Francisco', serif;
+}
+
+body, html {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+body {
+  margin: 0;
+}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100vh;
+  -webkit-text-size-adjust: 100vh;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+p {
+  position: absolute;
+  top: 11.4vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p1 {
+  position: absolute;
+  top: 13vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p2 {
+  position: absolute;
+  top: 10vh;
+  left:13vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+
+p3 {
+  position: absolute;
+  top: 11.5vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p4 {
+  position: absolute;
+  top: 13vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p5 {
+  position: absolute;
+  top: 10vh;
+  left:13vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+
+p6 {
+  position: absolute;
+  top: 11.5vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p7 {
+  position: absolute;
+  top: 13vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p8 {
+  position: absolute;
+  top: 10vh;
+  left:13vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+
+p9 {
+  position: absolute;
+  top: 11.5vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p10 {
+  position: absolute;
+  top: 13vh;
+  left:15vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+p11 {
+  position: absolute;
+  top: 10vh;
+  left:13vh;
+  font-size: 1.7vh;
+  font-weight: bold;
+  font-family: 'San Francisco', serif;
+  color: #282828;
+}
+
+#id-card {
+  position: relative;
+  float:right;
+  margin-right: 1vh;
+  width: 42.2vh;
+  height: 25vh;
+}
+
+#id-cardfish {
+  position: relative;
+  float:right;
+  margin-left: 50vh;
+  margin-right: 1vh;
+  width: 42.2vh;
+  height: 25vh;
+} 
+#id-cardhunting {
+  position: relative;
+  float:right;
+  margin-right: 1vh;
+  width: 42.2vh;
+  height: 25vh;
+} 
+#id-cardppa {
+  position: relative;
+  float:right;
+  margin-right: 1vh;
+  width: 42.2vh;
+  height: 25vh;
+} 
